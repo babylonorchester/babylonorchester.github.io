@@ -1,5 +1,5 @@
 ---
 name: Katharina Oppel
-image_path: ../styles/pictures/team/oppelt.jpg
+image_path: ../styles/pictures/team/oppel.jpg
 task: Social Media
 ---
