@@ -4,5 +4,5 @@ venue: 'Asphalt Festival'
 concert_date: Sa/So, 17./18.07.2021
 title: 'Babylon Orchestra @ Asphalt Festival'
 address: Düsseldorf, Gustav-Gründgens-Platz
-details: https://www.asphalt-festival.de
+details: https://www.asphalt-festival.de/events/2021/2-legit-2/
 ---
