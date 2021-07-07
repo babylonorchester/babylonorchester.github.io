@@ -5,11 +5,7 @@ author: Adri
 data: 2021-07-07
 ---
 
-Du spielst ein Instrument? Du interessierst Dich für Filmmusik und möchtest Dich weiterbilden? Du bist an der Geschichte Deiner Stadt und Deiner Mitmenschen interessiert? Das Konservatorium für türkische Musik in Berlin Kreuzberg lädt Dich gemeinsam mit Studierenden der Filmuniversität Babelsberg und dem Babylon Orchestra ein, Dich auf künstlerische Weise mit der vielfältigen Migrationsgeschichte Deutschlands auseinanderzusetzen. Du produzierst einen dokumentarischen Kurzfilm und erhältst in mehreren Workshops Einblicke in Filmrecherche, Filmschnitt und Filmkomposition.
-
-<p>
-Bewirb Dich jetzt!
-</p>
+Du spielst ein Instrument? Du interessierst Dich für Filmmusik und möchtest Dich weiterbilden? Du bist an der Geschichte Deiner Stadt und Deiner Mitmenschen interessiert? Das Konservatorium für türkische Musik in Berlin Kreuzberg lädt Dich gemeinsam mit Studierenden der Filmuniversität Babelsberg und dem Babylon Orchestra ein, Dich auf künstlerische Weise mit der vielfältigen Migrationsgeschichte Deutschlands auseinanderzusetzen. Du produzierst einen dokumentarischen Kurzfilm und erhältst in mehreren Workshops Einblicke in Filmrecherche, Filmschnitt und Filmkomposition.<a href="https://docs.google.com/document/d/19SCQtjPk4bM74tpQdoIRxs8oVBUhB-rdOoqAUTjS9uA/edit">Bewirb Dich jetzt. Hier!</a>
 
   <a href="https://docs.google.com/document/d/19SCQtjPk4bM74tpQdoIRxs8oVBUhB-rdOoqAUTjS9uA/edit">Mehr Infos hier!</a>
 <p>
