@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sei dabei!! Projektaufruf: Gestern, Heute und Morgen: 60 Jahre Türkische Gastarbeiter:innen in Deutschland Ein Filmmusik- und Recherche-Workshop mit Babylon ORCHESTRA" (Aug/Sep/Okt 2021)
+title: "Sei dabei!! Projektaufruf: Gestern, Heute und Morgen: 60 Jahre Türkische Gastarbeiter:innen in Deutschland Ein Filmmusik- und Recherche-Workshop mit Babylon ORCHESTRA"
 author: Adri
 data: 2021-07-07
 ---
