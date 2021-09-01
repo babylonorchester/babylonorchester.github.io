@@ -4,7 +4,7 @@ title: "Babylon ORCHESTRA sucht Verstärkung: Finanzmanager_in auf Projektbasis 
 author: Adri
 data: 2021-09-01
 ---
-Unser Team benötigt Unterstützung. Wenn das folgende Profil auf dich zutrifft, dann bewirb dich bis 10. September unter <b>info@babylonorchestra.com</b> <br /> 
+Das Babylon-Team benötigt Unterstützung! Wenn das folgende Profil auf dich zutrifft, dann schicke uns deine Bewerbungsunterlagen bis 10. September per E-Mail an: <b>info@babylonorchestra.com</b> <br /> 
 
 Das gesuchte Profil :<br /> 
 <ul>
