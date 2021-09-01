@@ -8,16 +8,16 @@ Das Babylon-Team benötigt Unterstützung! Wenn das folgende Profil auf dich zut
 
 Das gesuchte Profil :<br /> 
 <ul>
-<li> Erfahrungen mit Projektanträgen bei öffentlichen und privaten Institutionen </li>
-<li> Gute Kenntnisse der deutschen Amtsstrukturen </li>
-<li> Gute redaktionelle Fähigkeiten </li>
-<li> Erfahrung mit Finanzverwaltung </li>
-<li> Guter Organisationssinn </li> 
-<li> Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamfähigkeit </li>
-<li> Sehr gute Deutsch und Englischkenntnisse (Wort und Schrift) </li> 
-<li> Sicherheit im Umgang mit Excel/Word </li> 
-<li> Lust am „Out of the Box” Denken und Arbeit mit einem jungen und internationalen Team von 6 Leuten </li>
-<li> Arbeit im Homeoffice </li>
+<li> - Erfahrungen mit Projektanträgen bei öffentlichen und privaten Institutionen </li>
+<li> - Gute Kenntnisse der deutschen Amtsstrukturen </li>
+<li> - Gute redaktionelle Fähigkeiten </li>
+<li> - Erfahrung mit Finanzverwaltung </li>
+<li> - Guter Organisationssinn </li> 
+<li> - Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamfähigkeit </li>
+<li> - Sehr gute Deutsch und Englischkenntnisse (Wort und Schrift) </li> 
+<li> - Sicherheit im Umgang mit Excel/Word </li> 
+<li> - Lust am „Out of the Box” Denken und Arbeit mit einem jungen und internationalen Team von 6 Leuten </li>
+<li> - Arbeit im Homeoffice </li>
 </ul>
 Wir freuen uns auf alle Bewerbungen (Lebenslauf + Motivationsschreiben)! <br /> 
 Bitte per E-Mail bis zum 10. September 2021 an: <b><a href = "mailto: info@babylonorchestra.com">info@babylonorchestra.com</a> <br /> 
