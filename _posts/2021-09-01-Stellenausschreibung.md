@@ -8,12 +8,12 @@ Unser Team benötigt Unterstützung. Wenn das folgende Profil auf dich zutrifft,
 
 Das gesuchte Profil :<br /> 
 <ul>
-<li> Hilfe bei Projektanträgen bei öffentlichen und privaten Institutionen </li>
+<li> Erfahrungen mit Projektanträgen bei öffentlichen und privaten Institutionen </li>
 <li> Gute Kenntnisse der deutschen Amtsstrukturen </li>
 <li> Gute redaktionelle Fähigkeiten </li>
-<li> Hilfe mit Finanzverwaltung </li>
+<li> Erfahrung mit Finanzverwaltung </li>
 <li> Guter Organisationssinn </li> 
-<li> Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamsinn </li>
+<li> Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamfähigkeit </li>
 <li> Sehr gute Deutsch und Englischkenntnisse (Wort und Schrift) </li> 
 <li> Sicherheit im Umgang mit Excel/Word </li> 
 <li> Lust am „Out of the Box” Denken und Arbeit mit einem jungen und internationalen Team von 6 Leuten </li>
