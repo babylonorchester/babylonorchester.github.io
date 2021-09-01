@@ -11,12 +11,12 @@ Das gesuchte Profil :<br />
 <li> - Erfahrungen mit Projektanträgen bei öffentlichen und privaten Institutionen </li>
 <li> - Gute Kenntnisse der deutschen Amtsstrukturen </li>
 <li> - Gute redaktionelle Fähigkeiten </li>
-<li> - Erfahrung mit Finanzverwaltung </li>
+<li> - Erfahrung mit der Verwaltung von Finanzen </li>
 <li> - Guter Organisationssinn </li> 
 <li> - Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamfähigkeit </li>
-<li> - Sehr gute Deutsch und Englischkenntnisse (Wort und Schrift) </li> 
+<li> - Sehr gute Deutsch- und Englischkenntnisse (Wort und Schrift) </li> 
 <li> - Sicherheit im Umgang mit Excel/Word </li> 
-<li> - Lust am „Out of the Box” Denken und Arbeit mit einem jungen und internationalen Team von 6 Leuten </li>
+<li> - Lust am <i>Out of the Box</i> Denken und Arbeit mit einem jungen und internationalen Team </li>
 <li> - Arbeit im Homeoffice </li>
 </ul>
 Wir freuen uns auf alle Bewerbungen (Lebenslauf + Motivationsschreiben)! <br /> 
