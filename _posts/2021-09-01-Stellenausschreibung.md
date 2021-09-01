@@ -6,19 +6,20 @@ data: 2021-09-01
 ---
 Unser Team benötigt Unterstützung. Wenn das folgende Profil auf dich zutrifft, dann bewirb dich bis 10. September unter <b>info@babylonorchestra.com</b> <br /> 
 
-Das gesuchte Profil:
-
-Hilfe bei Projektanträgen bei öffentlichen und privaten Institutionen
-Gute Kenntnisse der deutschen Amtsstrukturen
-Gute redaktionelle Fähigkeiten
-Hilfe mit Finanzverwaltung
-Guter Organisationssinn
-Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamsinn
-Sehr gute Deutsch und Englischkenntnisse (Wort und Schrift)
-Sicherheit im Umgang mit Excel/Word
-Lust am <i>Out of the Box</i> Denken und Arbeit mit einem jungen und internationalen Team von 6 Leuten
-Arbeit im Homeoffice
-
-Wir freuen uns auf alle Bewerbungen (Lebenslauf und Motivationsschreiben)!
-Bitte per E-Mail bis zum 10. September 2021 an: <b> info@babylonorchestra.com </b>
+Das gesuchte Profil :<br /> 
+<ul>
+<li> Hilfe bei Projektanträgen bei öffentlichen und privaten Institutionen </li>
+<li> Gute Kenntnisse der deutschen Amtsstrukturen </li>
+<li> Gute redaktionelle Fähigkeiten </li>
+<li> Hilfe mit Finanzverwaltung </li>
+<li> Guter Organisationssinn </li> 
+<li> Proaktivität, Belastbarkeit, gutes Zeitmanagement, Teamsinn </li>
+<li> Sehr gute Deutsch und Englischkenntnisse (Wort und Schrift) </li> 
+<li> Sicherheit im Umgang mit Excel/Word </li> 
+<li> Lust am „Out of the Box” Denken und Arbeit mit einem jungen und internationalen Team von 6 Leuten </li>
+<li> Arbeit im Homeoffice </li>
+</ul>
+Wir freuen uns auf alle Bewerbungen (Lebenslauf + Motivationsschreiben)! <br /> 
+Bitte per E-Mail bis zum 10. September 2021 an: <b><a href = "mailto: info@babylonorchestra.com">info@babylonorchestra.com</a> <br /> 
+ <br /> 
 Vielen Dank!
