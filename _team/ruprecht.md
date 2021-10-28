@@ -1,5 +1,5 @@
 ---
-name: Susanne Ruprecht
-image_path: ../styles/pictures/team/Susanne_Ruprecht_Web.jpg
-task: Presse
+name: Mina Takei
+image_path: ../styles/pictures/team/MINA_website.jpg
+task: Produktionsleitung
 ---
